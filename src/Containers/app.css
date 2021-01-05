@@ -1,0 +1,14 @@
+@font-face{
+    font-family: 'The Crafter';
+    font-style: normal;
+    font-weight: normal;
+    src: local('The Crafter'),
+    url('The Crafter.woff') format('woff');
+}
+
+
+h1{
+    font-family: 'The Crafter';
+    font-weight: 200;
+    color: #0ccac4;
+}
